@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RxSausage</string>
+    <string name="intro">Click the button to generate a Rx Event</string>
+    <string name="demo_button">Click me!</string>
+</resources>
